@@ -24,8 +24,8 @@ On a donc pu dire enfin pour chaque espèce , les caractéristiques de ses organ
 Par exemple si l'__espèce 1__ est incluse dans la __classe 1__, et la classe 1 est caractérisé par de fortes concentration de mercure dans les intestins, on recommande de ne pas consommer
 les intestins lorsqu'on achète des poissons de cette espèce.
 
-Le fichier __Projet_Moomen_Abid.R__ contient le code source de ce projet. 
-Le fichier __ACP_CAH_Retour.pdf__ contient le rapport qui détaille ce qu'a été fait dans le projet. 
+Le fichier __Projet_Moomen_Abid.R__ contient le code source de ce projet.  
+Le fichier __ACP_CAH_Retour.pdf__ contient le rapport qui détaille ce qu'a été fait dans le projet.  
 Le fichier __Poissons.rda__ contient la source de ce projet. 
 
 
