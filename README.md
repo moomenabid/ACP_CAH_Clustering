@@ -1,5 +1,5 @@
-__ Analyse en composantes principales (ACP) 
-__ #Classification ascendante hiérarchique 
+__# Analyse en composantes principales (ACP)__ 
+__# Classification ascendante hiérarchique__ 
 
 Des études réalisées sur l’ensemble du territoire de la Guyane Française ont mis en évidence des imprégnations
 par le mercure supérieures à la norme OMS dans les cheveux des populations amérindiennes vivant dans la
