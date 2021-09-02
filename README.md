@@ -28,6 +28,4 @@ Le fichier __Projet_Moomen_Abid.R__ contient le code source de ce projet.
 Le fichier __ACP_CAH_Retour.pdf__ contient le rapport qui détaille ce qu'a été fait dans le projet. 
 Le fichier __Poissons.rda__ contient la source de ce projet. 
 
-Je vous souhaite une bonne lecture.
-
 
