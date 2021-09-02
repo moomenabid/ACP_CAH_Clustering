@@ -1,4 +1,4 @@
-__#Analyse en composantes principales (ACP)
+__Analyse en composantes principales (ACP) 
 __#Classification ascendante hiérarchique 
 
 Des études réalisées sur l’ensemble du territoire de la Guyane Française ont mis en évidence des imprégnations
